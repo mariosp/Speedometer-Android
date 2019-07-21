@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">speedometer</string>
+    <string name="main_startbtn">Start Speedometer</string>
+    <string name="speedend"> km/h</string>
+    <string name="main_list">list</string>
+    <string name="main_map">map</string>
+    <string name="alert_list">No: %1$d\nLatitude: %2$s\nLongtitude: %3$s\nSpeed: %4$s\nTimestamp: %5$s\n---------\n</string>
+    <string name="alert_list_empty">No events</string>
+    <string name="title_activity_map_activity">Map</string>
+    <string name="map_event">Speed: %1$s - Timestamp: %2$s</string>
+
+</resources>

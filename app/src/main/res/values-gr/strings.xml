@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">speedometer</string>
+    <string name="main_startbtn">Εναρξη</string>
+    <string name="speedend"> χλμ/ωρα</string>
+    <string name="main_list">Λιστα</string>
+    <string name="main_map">Χαρτης</string>
+    <string name="alert_list">No: %1$d\nΓεωγραφικό πλάτος: %2$s\nΓεωγραφικό μηκος: %3$s\nΤαχυτητα: %4$s\nΗμερομ.: %5$s\n---------\n</string>
+    <string name="alert_list_empty">Κανενα γεγονος</string>
+    <string name="title_activity_map_activity">Χαρτης</string>
+    <string name="map_event">Ταχυτητα: %1$s - Ημερομ.: %2$s</string>
+</resources>
