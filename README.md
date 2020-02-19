@@ -30,9 +30,9 @@ Technologies:
 
 ## Screenshots
 
-![Screenshot_1582144009](https://user-images.githubusercontent.com/3619970/74873217-75202800-5367-11ea-8a2c-b878287a054c.png)
+<img width="300" src="https://user-images.githubusercontent.com/3619970/74873217-75202800-5367-11ea-8a2c-b878287a054c.png" />
 
-![Screenshot_1582143984](https://user-images.githubusercontent.com/3619970/74873222-78b3af00-5367-11ea-9804-62223082e1af.png)
+<img width="300" src="https://user-images.githubusercontent.com/3619970/74873222-78b3af00-5367-11ea-9804-62223082e1af.png" />
 
 
 
